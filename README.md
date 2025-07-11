@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/bandike-pavan-kumar-831864318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bandike-pavan-kumar-831864318" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@srinivasbandik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@srinivasbandik" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/bandike-pavan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bandike-pavan-kumar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srinivasbandik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srinivasbandik" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pavankumar_10030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pavankumar_10030" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pavankumarf7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavankumarf7" height="30" width="40" /></a>
 </p>
