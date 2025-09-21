@@ -5,7 +5,7 @@
 - 🌍 I'm from Kurnool,India.
 - 📫 Reach me at [srinivasbandik@gmail.com](mailto:srinivasbandik@gmail.com)
 - 🌱 I'm currently learning Node.js and React
-- 💬 Ask me about MERN STack
+- 💬 Ask me about MERN Stack
 
 
 ## 🌐 Socials:
