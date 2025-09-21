@@ -1,5 +1,11 @@
-# 💫 About Me:
-I'm a passionate MERN Developer.<br>Currently working on React<br>Pursuing Bachelor of Technology in Computer Science and Engineering at <br>Dr.K.V.Subba Reddy Institute Of Technology, Kurnool.
+# Hello 👋 I am Pavan Kumar
+
+## Full Stack Developer
+
+- 🌍 I'm from Kurnool,India.
+- 📫 Reach me at [srinivasbandik@gmail.com](mailto:srinivasbandik@gmail.com)
+- 🌱 I'm currently learning Node.js and React
+- 💬 Ask me about MERN STack
 
 
 ## 🌐 Socials:
